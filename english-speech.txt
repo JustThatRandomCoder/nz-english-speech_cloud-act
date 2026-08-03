@@ -1,9 +1,17 @@
 # English Speech 
 
+> *Main Question:*
+
 > How does the US CLOUD Act ==violate the privacy== of ordinary citizens, even when their digital data is stored outside the US?
 
 ## *Context:* What is the Cloud Act
 
 The US CLOUD Act is a 2018 US law wich enforces US-based tech companies to provide law enforcement with data they control, regardless of where the servers, the data is stored on, are physically located. 
+
+## Speech 
+
+
+
+
 
 
