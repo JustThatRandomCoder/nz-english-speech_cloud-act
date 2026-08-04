@@ -34,7 +34,7 @@ Specifically they r==ent access to  multiple servers connected to each other== a
 
 And ==Three companies== are ==dominating== this business of renting those gigantic server clusters to other companies: ==Amazon, Google, and Microsoft==. Amazon's version is called Amazon Web Services, short ==AWS==. Google's is called Google Cloud."
 
-
+And this goes deep. ==The Reserve Bank of New Zealand== — the institution running this country's entire money system — ==stores data on AWS==. ==ANZ Bank uses Google Cloud==. Our own ==government== has ==official agreements with both of them==. And it's not just banks and governments — ==Netflix== runs almost its entire service on Amazon's servers too. ==Basically half the internet you use every day== is sitting on infrastructure owned by three American companies.
 
 
 
