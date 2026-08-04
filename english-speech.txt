@@ -28,6 +28,14 @@ The U.S doesn’t need to claim power over New Zeeland or Europe. They don’t e
 
 Okay ==so U.S Companies obey this CLOUD Act== understood that now. But before we dive even further into this let’s take a step back - What actually happens when you send a Snap or something as simple as a text message? They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. Tech may be fascinating but it ==isn’t Witchcraft==
 
+Now I’m gonna ==tell you a secret== - at least thats what people think it is! Most ==companies don’t own their servers==! ==They rent access to them==. 
+
+Specifically they r==ent access to  multiple servers connected to each other== across different locations. This is connection between multiple servers is called a ==„server cluster“==. Essentially it is just a failsafe; If one server fails, you’re not offline, another server in this cluster is replacing the spot! Congrats you’ve just learned the basics of the construction of the Internet! 
+
+And ==Three companies== are ==dominating== this business of renting those gigantic server clusters to other companies: ==Amazon, Google, and Microsoft==. Amazon's version is called Amazon Web Services, short ==AWS==. Google's is called Google Cloud."
+
+
+
 
 
 
