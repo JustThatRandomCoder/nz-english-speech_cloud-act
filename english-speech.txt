@@ -10,7 +10,12 @@ The US CLOUD Act is a 2018 US law wich enforces US-based tech companies to provi
 
 ## Speech 
 
-Quick show of hands - who in this room has ever used iCloud, Gmail, Instagram or Snapchat? Yeah thought so. Now here’s the thing: Even if you never stepped a foot in to America, a US law called the *CLOUD Act* allows U.S law enforcement to access your personal data right now. All of your chats, every single Message you sent, each and every Photo you shared. Right in this very moment.
+Quick show of hands - ==who in this room has ever used iCloud, Gmail, Instagram or Snapchat==? Yeah thought so. Now here’s the thing: Even if you never stepped a foot in to America, a US law called the *CLOUD Act* allows U.S ==law enforcement to access your personal data right now==. All of your chats, every single Message you sent, each and every Photo you shared. Right in this very moment. Sounds like a bit of a horror scenario right? 
+
+But ==let me break this down for you==; what is this *CLOUD Act* I’ve been talking about? The *CLOUD Act* - thats short for ==„Clarifying Lawful Overseas Use of Data“==. This law was passed back in 2018. Now Think of Meta (the company behind Instagram), Apple, Google Microsoft or Snapchat. All of those companies have one crucial Resemblance - Each and every one is a U.S. based Company. ==But what has this to do with some stupid law?== 
+it means US authorities can legally force that company to hand over your data. It doesn’t matter if your data is sitting on servers, the thing the internet actually runs on, are physically located in Dublin, Berlin or even right here in Auckland. 
+
+
 
 
 
