@@ -77,6 +77,8 @@ Not every app ==protects your messages== the same way. ==Snapchat messages aren'
 
 ==Signal== or ==iMessage== is properly locked, meaning not even the company can see what you wrote. 
 
+That's called ==end-to-end encryption==. Basically: your message gets s==crambled the moment it leaves your phone==, and your ==friend's phone== can ==unscramble== it . Everything in between — including the company itself — just sees nonsense.
+
 ==Besides metadata==, those aren’t. Even when they are properly End to End Encrypted — they ==still know who you talked to==, when, and how often. That's called metadata. ==The message itself is protected==, but the ==pattern around it isn't==. And sometimes that alone says a lot.
 
 
