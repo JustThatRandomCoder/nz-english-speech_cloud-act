@@ -36,7 +36,12 @@ And ==Three companies== are ==dominating== this business of renting those gigant
 
 And this goes deep. ==The Reserve Bank of New Zealand== — the institution running this country's entire money system — ==stores data on AWS==. ==ANZ Bank uses Google Cloud==. Our own ==government== has ==official agreements with both of them==. And it's not just banks and governments — ==Netflix== runs almost its entire service on Amazon's servers too. ==Basically half the internet you use every day== is sitting on infrastructure owned by three American companies.
 
-So you might now ask yourselves, ==Why should I care==? I don’t have nothing to hide! Who does this even affect? ==Criminals==, ==Terrorists==? Big corporations with something to hide?  No, ==Everyone in this room==!
+So you might now ask yourselves, ==Why should I care==? I don’t have nothing to hide! Who does this even affect? ==Criminals==, ==Terrorists==? Big corporations with something to hide?  No, it affects ==Everyone in this room==! Ordinary civilians like you and me. 
+
+
+Remember the show off hands? Every single one of you uses American services on a daily basis. And even services like your NZ banking are running on servers owned by American companies. 
+
+
 
 
 
