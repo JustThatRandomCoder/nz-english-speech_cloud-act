@@ -71,6 +71,9 @@ Here's ==what it does==, simply: right now, everything you sync to iCloud is loc
 
 ==Turn this on== your ==iPhone changes the lock==, generates a new key, and ==Apple throws that old spare key away. ==You're the only one who has it==. So even if they get asked, ==there's nothing they can give== — they literally can't open it anymore.
 
+Second: think about where you send private stuff. 
+
+Not every app protects your messages the same way. Snapchat messages aren't properly locked 
 
 
 
