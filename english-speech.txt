@@ -73,7 +73,15 @@ Here's ==what it does==, simply: right now, everything you sync to iCloud is loc
 
 Second: think about where you send private stuff. 
 
-Not every app protects your messages the same way. Snapchat messages aren't properly locked 
+Not every app ==protects your messages== the same way. ==Snapchat messages aren't properly locked== — ==Snap== themselves ==can read them==. So if it's actually ==private==, ==don't send it as a Snap==
+
+==Signal== or ==iMessage== is properly locked, meaning not even the company can see what you wrote. 
+
+==Besides metadata==, those aren’t. Even when they are properly End to End Encrypted — they ==still know who you talked to==, when, and how often. That's called metadata. ==The message itself is protected==, but the ==pattern around it isn't==. And sometimes that alone says a lot.
+
+
+
+
 
 
 
