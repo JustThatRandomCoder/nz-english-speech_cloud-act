@@ -81,6 +81,11 @@ That's called ==end-to-end encryption==. Basically: your message gets s==cramble
 
 ==Besides metadata==, those aren’t. Even when they are properly End to End Encrypted — they ==still know who you talked to==, when, and how often. That's called metadata. ==The message itself is protected==, but the ==pattern around it isn't==. And sometimes that alone says a lot.
 
+And the ==third== one is ==the simplest==, and honestly the ==most useful==. 
+
+
+
+
 
 
 
