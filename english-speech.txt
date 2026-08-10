@@ -63,8 +63,13 @@ Look, I'm not going to stand here and tell you to ==delete Instagram tomorrow==.
 
 And honestly, the ==most important step== is the one you've ==already taken by listening== — just ==knowing this exists==. Most people in this country have no idea this law applies to them, and you ==**can't push back**== against something you've ==**never heard of**==. So that alone already puts you ==ahead of most people==.
 
+But there are a few more things that ==make a real difference==.
 
+If you've got an iPhone — turn on ==Advanced Data Protection==. It's in your ==iCloud settings==, takes about two minutes. I Could even show this live. Right now!
 
+Here's ==what it does==, simply: right now, everything you sync to iCloud is locked — but ==Apple keeps a spare key==. So if someone asks Apple for your stuff, ==Apple can open it== and hand it over.
+
+==Turn this on== your ==iPhone changes the lock==, generates a new key, and ==Apple throws that old spare key away. ==You're the only one who has it==. So even if they get asked, ==there's nothing they can give== — they literally can't open it anymore.
 
 
 
