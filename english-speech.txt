@@ -24,7 +24,11 @@ The answer is: the ==US doesn't claim power over our country==. They ==claim pow
 
 They don’t need to ask a New Zealand court. They don’t even need permission from those countries.  They just go straight to the company. 
 
-Okay ==so U.S Companies obey this CLOUD Act== understood that now. But before we dive even further into this let’s take a step back - What actually happens when you send a Snap or something as simple as a text message? They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. Tech may be fascinating but it ==isn’t Witchcraft==
+Okay ==so U.S Companies obey this CLOUD Act== understood that now. But before we dive even further into this let’s take a step back:
+
+What actually happens when you send a Snap or something as simple as a text message? 
+
+They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. Tech may be fascinating but it ==isn’t Witchcraft==
 
 Now I’m gonna ==tell you a secret== - at least thats what most people think it is! Most ==companies don’t own their servers==! ==They rent access to them==. Specifically, they rent access to multiple servers across different locations - A server Cluster. 
 
