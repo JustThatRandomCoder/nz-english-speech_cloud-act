@@ -1,12 +1,7 @@
 # English Speech 
 
-
- > *Main Question:*
+> *Main Question:*
  
- 
-This is a test sentence
- 
-
 > How does the US CLOUD Act ==violate the privacy== of ordinary citizens, even when their digital data is stored outside the US?
 
 ## *Context:* What is the Cloud Act
