@@ -14,7 +14,7 @@ Quick show of hands - ==who in this room has ever used iCloud, Gmail, Instagram 
 
 But ==let me break this down for you==; what is this *CLOUD Act* I’ve been talking about? The *CLOUD Act* - thats short for ==„Clarifying Lawful Overseas Use of Data“==. This law was passed back in 2018. Now Think of Meta (the company behind Instagram), Apple, Google Microsoft or Snapchat. All of those companies have one crucial Resemblance - Each and every one is a U.S. based Company. ==But what has this to do with some stupid law?== 
 
-It means US authorities can ==legally force that company to hand over your data==. It doesn’t matter if your Photos or Messages are sitting on servers, these magical things the internet actually runs on, are physically located in Dublin, Berlin or even right here in Auckland. 
+It means US authorities can ==legally force that company to hand over your data==. It doesn’t matter if your Photos or Messages are sitting on servers, these magical things the internet actually runs on, that are physically located in Dublin, Berlin or even right here in Auckland. 
 
 None of that matters! The only thing that does, is that those companies are American Based. 
 
@@ -22,9 +22,7 @@ But hold on - ==How is that even allowed==. The U.S. isn’t in charge of neithe
 
 The answer is: the ==US doesn't claim power over our country==. They ==claim power over their companies==. And since those companies operate everywhere, their reach goes everywhere too. 
 
-Picture this: If you are working for an American Company, you need to follow their rules. No matter if you’re sitting in an office in Auckland or Berlin. 
-
-The U.S doesn’t need to claim power over New Zeeland or Europe. They don’t even need permission from those countries. They don’t need to ask a New Zealand court. They just go straight to the company. 
+They don’t need to ask a New Zealand court. They don’t even need permission from those countries.  They just go straight to the company. 
 
 Okay ==so U.S Companies obey this CLOUD Act== understood that now. But before we dive even further into this let’s take a step back - What actually happens when you send a Snap or something as simple as a text message? They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. Tech may be fascinating but it ==isn’t Witchcraft==
 
@@ -74,7 +72,7 @@ Not every app ==protects your messages== the same way. ==Snapchat messages aren'
 
 ==Signal== or ==iMessage== is properly locked, meaning not even the company can see what you wrote. 
 
-That's called ==end-to-end encryption==. Basically: your message gets ==scrambled the moment it leaves your phone==, and your ==friend's phone== can ==unscramble== it . 
+That's called ==end-to-end encryption==. Basically: your message gets ==scrambled the moment it leaves your phone==, and your ==friend's phone== can ==unscramble== it. 
 
 Everything in between — including the company itself — just sees nonsense.
 
