@@ -1,0 +1,128 @@
+# English Speech 
+
+> *Main Question:*
+ 
+> How does the US CLOUD Act ==violate the privacy== of ordinary citizens, even when their digital data is stored outside the US?
+
+## *Context:* What is the Cloud Act
+
+The US CLOUD Act is a 2018 US law wich enforces US-based tech companies to provide law enforcement with data they control, regardless of where the servers, the data is stored on, are physically located. 
+
+## Speech 
+
+Quick show of hands. ==Who in this room has ever used iCloud, Gmail, Instagram or Snapchat==? Yeah thought so. Now here’s the thing: Even if you never stepped a foot in to America, a US law called the *CLOUD Act* allows U.S ==law enforcement to access your personal data right now==. All of your chats, every single Message you sent, each and every Photo you shared. Right in this very moment. Sounds like a bit of a horror scenario right? 
+
+But ==let me break this down for you==; what is this *CLOUD Act* I’ve been talking about? 
+
+The *CLOUD Act*, thats short for ==„Clarifying Lawful Overseas Use of Data“==. This law was passed back in 2018. Now Think of Meta, Apple, Google or Snapchat. All of those companies have one crucial Resemblance - Each and every one is a U.S. based Company.
+
+And this means US authorities can ==legally force that company to hand over your data==. It doesn’t matter if your Photos or Messages are sitting on servers that are physically located in Virginia, Berlin or even right here in Auckland. 
+
+None of that matters! The only thing that does, is that those companies are American Based. 
+
+But hold on, ==how is that even allowed==. The U.S. isn’t in charge of neither Newzeeland, nor Europe, or every other part of the World! So ==how can a U.S. law reach us over here==? 
+
+The answer is: the ==US doesn't claim power over our country==. They ==claim power over their companies==. And since those companies operate everywhere, their reach goes everywhere too. 
+
+They don’t need to ask a New Zealand court. They don’t need permission from this country. They just go straight to their companies. 
+
+Alright, so US companies have to follow the CLOUD Act. Everyone still with me?
+
+But before we dive even further into this let’s take a step back:
+
+What actually happens when you send a Snap or a simple text message? 
+
+They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. 
+
+The Internet may be fascinating but it ==isn’t Witchcraft==
+
+Now here’s the Thing: Most ==companies don’t own their servers==! ==They rent access to them==. Specifically, they rent access to multiple servers across different locations - A server Cluster. 
+
+And ==Three companies== are ==dominating== this business of renting those gigantic server clusters to other companies: ==Amazon, Google, and Microsoft==. 
+
+Amazon's version is called ==Amazon Web Services==, Google's is called ==Google Cloud== and Microsofts’s is called ==Azure==.
+
+And this goes deep. ==The Reserve Bank of New Zealand==, the institution running this country's entire money system, ==stores data on AWS==. ==ANZ Bank uses Google Cloud==. The NZ ==government== has ==official agreements with both of them==. And it's not just banks and governments. ==Basically half the internet you use every day== is sitting on infrastructure owned by three American companies.
+
+So you might now ask yourselves, ==Why should I care==? I don’t have nothing to hide! Who does this even affect? ==Criminals==, ==Terrorists==? Big corporations with something to hide?  
+
+No! It affects ==Everyone in this room==! Ordinary people like you and me. 
+
+Remember the show off hands? ==Every single one of you uses American services== like iCloud, Snapchat or Instagram on a daily basis. Which means every photo you've ever backed up, each and every message you've ever sent. ==Even your own banking== runs on servers owned by American companies. ==And all of this falls under this American law==. 
+
+And here's the part most people don't realise: ==if this happens to you==, you will ==never know==. There's no email. No notification. No knock on the door. It just happens — ==quietly, in the background==. 
+
+And ==you don't have to do anything wrong== for this to reach you. Imagine a friend gets caught up in something. Your name comes up in one chat... 
+
+That's enough for your data to become part of an investigation. Just like that: Your Private Messages and Photos become Evidence.  
+
+A ==US judge signs off== on it. The ==company hands it over==. And that's it. ==No New Zealand court== involved. ==Nobody asks for your consent==. Nobody warns you. You just... never find out.
+
+You could walk out of this room today, ==and it could already have happened==.
+
+Now, ==to be fair==, we can’t just start a discussion without any counter argument. The US government says it's ==needed to catch criminals and terrorists== faster. 
+
+==Before== the CLOUD Act, ==getting evidence across borders could take months==.
+
+But here's my problem with that: the issue was never that the ==police needs evidence==. The issue is ==who decides==. And that's ==not us==. It never was!
+
+Furthermore ==**you don't get asked**==. You ==don't get notified==. You don't even get the chance to object — ==because you're not the one on trial==. You're just... in the file. ==Your private messages become evidence== in a ==case you've never heard of==, in a ==**country you've never been to**==. And nobody has to tell you."
+
+Okay. ==This is bad==. ==But what can you do about that==? Do you just need to ==accept it==?
+
+==**No, you don’t**==!
+
+Look, I'm not going to stand here and tell you to ==delete Instagram tomorrow==. ==**You won’t**==. And honestly, **I won't either**.
+
+But the most important step is the one you've ==already taken== by listening — just knowing this exists. Because you ==can't push back== against something you've ==never heard of==. Most people in this country still don’t know this law applies to them. ==You do==.
+
+But there are a few more things that ==make a real difference==.
+
+If you've got an iPhone — turn on ==Advanced Data Protection==. It's in your iCloud settings, ==takes two minutes==.
+
+Here's what it does: everything you ==sync to iCloud is locked==, but ==Apple keeps a spare key==. Someone asks, Apple opens it and hands it over like that.
+
+==Turn this on==, and your ==iPhone changes the lock==. Apple's key doesn't work anymore. You just ==locked Apple out of your own data==. Now when someone asks for your data, there's nothing to give.
+
+Second: think about where you send private stuff. 
+
+Not every app ==protects your messages== the same way. ==Snapchat messages aren't properly locked==, ==Snap== themselves ==can read them==. 
+
+So if it's actually ==private==, ==don't send it as a Snap==
+
+==Signal== or ==iMessage== is properly locked, meaning not even the company can see what you wrote. 
+
+That's called ==end-to-end encryption==. Basically: your message gets ==scrambled the moment it leaves your phone==, and only your ==friend's phone== can ==unscramble== it. 
+
+Everyone in between, including the company itself, just sees nonsense.
+
+And the ==third== one is ==the simplest==, and honestly the ==most useful== one. 
+
+Just ==think== for a second ==before you send== something. 
+
+Not because someone's definitely watching right now, but ==because once it's out there==, it's ==not yours anymore==. You can't take it back. 
+
+The ==Internet **NEVER FORGETS**==.
+
+I started by asking you to raise your hands. Almost every one of you did.
+
+So let me ==leave you with this==. ==Nobody asks you==. ==Nobody tells you==. ==Nobody gives you a choice==. And that's exactly the problem.
+
+==Your data should be yours==. Not because you've got **something to hide** — but ==because it's yours==.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
