@@ -20,29 +20,35 @@ And this means US authorities can ==legally force that company to hand over your
 
 None of that matters! The only thing that does, is that those companies are American Based. 
 
-But hold on, ==how is that even allowed==. The U.S. isn’t in charge of neither New Zeeland nor Europe or every other part of the World! So ==how can a U.S. law reach us over here==? 
+But hold on, ==how is that even allowed==. The U.S. isn’t in charge of neither Newzeeland, nor Europe, or every other part of the World! So ==how can a U.S. law reach us over here==? 
 
 The answer is: the ==US doesn't claim power over our country==. They ==claim power over their companies==. And since those companies operate everywhere, their reach goes everywhere too. 
 
-They don’t need to ask a New Zealand court. They don’t even need permission from those countries.  They just go straight to the company. 
+They don’t need to ask a New Zealand court. They don’t need permission from this country. They just go straight to their companies. 
 
-Alright, so US companies have to follow the CLOUD Act. Everyone still with me?. But before we dive even further into this let’s take a step back:
+Alright, so US companies have to follow the CLOUD Act. Everyone still with me?
+
+But before we dive even further into this let’s take a step back:
 
 What actually happens when you send a Snap or a simple text message? 
 
-They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. The Internet may be fascinating but it ==isn’t Witchcraft==
+They don’t just magically appear on the phone of your friend. ==They get send to a real physical computer== sitting in a building somewhere - This machine is called a server. And thousands of those servers, stacked in giant warehouses - That's ==‚the cloud‘==. Just someone else's computers. 
 
-Now I’m gonna ==tell you a secret== - at least thats what most people think it is! Most ==companies don’t own their servers==! ==They rent access to them==. Specifically, they rent access to multiple servers across different locations - A server Cluster. 
+The Internet may be fascinating but it ==isn’t Witchcraft==
+
+Now here’s the Thing: Most ==companies don’t own their servers==! ==They rent access to them==. Specifically, they rent access to multiple servers across different locations - A server Cluster. 
 
 And ==Three companies== are ==dominating== this business of renting those gigantic server clusters to other companies: ==Amazon, Google, and Microsoft==. 
 
 Amazon's version is called ==Amazon Web Services==, Google's is called ==Google Cloud== and Microsofts’s is called ==Azure==.
 
-And this goes deep. ==The Reserve Bank of New Zealand==, the institution running this country's entire money system, ==stores data on AWS==. ==ANZ Bank uses Google Cloud==. Our own ==government== has ==official agreements with both of them==. And it's not just banks and governments — ==Netflix== runs almost its entire service on Amazon's servers too. ==Basically half the internet you use every day== is sitting on infrastructure owned by three American companies.
+And this goes deep. ==The Reserve Bank of New Zealand==, the institution running this country's entire money system, ==stores data on AWS==. ==ANZ Bank uses Google Cloud==. The NZ ==government== has ==official agreements with both of them==. And it's not just banks and governments. ==Basically half the internet you use every day== is sitting on infrastructure owned by three American companies.
 
-So you might now ask yourselves, ==Why should I care==? I don’t have nothing to hide! Who does this even affect? ==Criminals==, ==Terrorists==? Big corporations with something to hide?  No, it affects ==Everyone in this room==! Ordinary people like you and me. 
+So you might now ask yourselves, ==Why should I care==? I don’t have nothing to hide! Who does this even affect? ==Criminals==, ==Terrorists==? Big corporations with something to hide?  
 
-Remember the show off hands? ==Every single one of you uses American services== like iCloud, Snapchat or Instagram on a daily basis. Which means every photo you've ever backed up, each and every message you've ever sent. ==Even your own NZ banking== runs on servers owned by American companies. ==And all of it falls under this American law==. 
+No! It affects ==Everyone in this room==! Ordinary people like you and me. 
+
+Remember the show off hands? ==Every single one of you uses American services== like iCloud, Snapchat or Instagram on a daily basis. Which means every photo you've ever backed up, each and every message you've ever sent. ==Even your own banking== runs on servers owned by American companies. ==And all of this falls under this American law==. 
 
 And here's the part most people don't realise: ==if this happens to you==, you will ==never know==. There's no email. No notification. No knock on the door. It just happens — ==quietly, in the background==. 
 
@@ -60,7 +66,7 @@ Now, ==to be fair==, we can’t just start a discussion without any counter argu
 
 But here's my problem with that: the issue was never that the ==police needs evidence==. The issue is ==who decides==. And that's ==not us==. It never was!
 
-And ==**you don't get asked**==. You ==don't get notified==. You don't even get the chance to object — ==because you're not the one on trial==. You're just... in the file. ==Your private messages become evidence== in a ==case you've never heard of==, in a ==**country you've never been to**==. And nobody has to tell you."
+Furthermore ==**you don't get asked**==. You ==don't get notified==. You don't even get the chance to object — ==because you're not the one on trial==. You're just... in the file. ==Your private messages become evidence== in a ==case you've never heard of==, in a ==**country you've never been to**==. And nobody has to tell you."
 
 Okay. ==This is bad==. ==But what can you do about that==? Do you just need to ==accept it==?
 
@@ -72,23 +78,25 @@ But the most important step is the one you've ==already taken== by listening —
 
 But there are a few more things that ==make a real difference==.
 
-If you've got an iPhone — turn on ==Advanced Data Protection==. It's in your iCloud settings, ==takes two minutes==. I could show you right now.
+If you've got an iPhone — turn on ==Advanced Data Protection==. It's in your iCloud settings, ==takes two minutes==.
 
-Here's what it does: everything you ==sync to iCloud is locked==, but ==Apple keeps a spare key==. Someone asks, Apple opens it, hands it over.
+Here's what it does: everything you ==sync to iCloud is locked==, but ==Apple keeps a spare key==. Someone asks, Apple opens it and hands it over like that.
 
-==Turn this on==, and your ==iPhone changes the lock==. Apple's key doesn't work anymore. You just ==locked Apple out of your own data==. Now when they ask, there's nothing to give.
+==Turn this on==, and your ==iPhone changes the lock==. Apple's key doesn't work anymore. You just ==locked Apple out of your own data==. Now when someone asks for your data, there's nothing to give.
 
 Second: think about where you send private stuff. 
 
-Not every app ==protects your messages== the same way. ==Snapchat messages aren't properly locked==, ==Snap== themselves ==can read them==. So if it's actually ==private==, ==don't send it as a Snap==
+Not every app ==protects your messages== the same way. ==Snapchat messages aren't properly locked==, ==Snap== themselves ==can read them==. 
+
+So if it's actually ==private==, ==don't send it as a Snap==
 
 ==Signal== or ==iMessage== is properly locked, meaning not even the company can see what you wrote. 
 
 That's called ==end-to-end encryption==. Basically: your message gets ==scrambled the moment it leaves your phone==, and only your ==friend's phone== can ==unscramble== it. 
 
-Everything in between, including the company itself, just sees nonsense.
+Everyone in between, including the company itself, just sees nonsense.
 
-And the ==third== one is ==the simplest==, and honestly the ==most useful==. 
+And the ==third== one is ==the simplest==, and honestly the ==most useful== one. 
 
 Just ==think== for a second ==before you send== something. 
 
@@ -98,7 +106,7 @@ The ==Internet **NEVER FORGETS**==.
 
 I started by asking you to raise your hands. Almost every one of you did.
 
-So let me ==leave you with this==. ==Nobody asked you==. ==Nobody told you==. ==Nobody gave you a choice==. And that's exactly the problem.
+So let me ==leave you with this==. ==Nobody asks you==. ==Nobody tells you==. ==Nobody gives you a choice==. And that's exactly the problem.
 
 ==Your data should be yours==. Not because you've got **something to hide** — but ==because it's yours==.
 
